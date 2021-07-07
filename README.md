@@ -5,6 +5,14 @@ This is a bot that recommends retirement investment plans by using AWS Lex and L
 
 ---
 
+## Libraries and Dependancies
+
+* [datetime](https://docs.python.org/3/library/datetime.html) - supplies classes for manipulating dates and times.
+
+* [dateutil.relativedelta](https://dateutil.readthedocs.io/en/stable/relativedelta.html) - designed to be applied to an existing datetime and can replace specific components of that datetime, or represents an interval of time.
+
+---
+
 ## Usage
 
 The bot is generated in the following steps:
